@@ -1,7 +1,7 @@
 # Philippine Geography in .json format.
 
 ## Json Mapping Classes
-``
+
  public class Region 
     {
         [JsonProperty("region_name")]
@@ -22,4 +22,4 @@
         [JsonProperty("barangay_list")]
         public List<string> Barangays { get; set; }
     }
-``
+
