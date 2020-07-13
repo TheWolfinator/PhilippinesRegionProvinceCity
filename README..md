@@ -2,7 +2,8 @@
 
 ## Json Mapping Classes
 
-```   public class Region 
+```   
+public class Region 
     {
         [JsonProperty("region_name")]
         public string Name { get; set; }
