@@ -1,4 +1,5 @@
-# Philippine Geography in .json format.
+# Philippine Geography in .json format based 
+ https://github.com/flores-jacob/philippine-regions-provinces-cities-municipalities-barangays
 
 ## Json Mapping Classes
 
